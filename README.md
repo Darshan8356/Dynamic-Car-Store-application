@@ -1,2 +1,3 @@
 # Dynamic-Car-Store-application
-The dynamic car store project is a Java application using JSP, Servlets, and JDBC to manage car inventory. It enables CRUD operations—add, view, update, and delete cars in a MySQL database. Users can enter or modify details like model, brand, and price. JSP handles the UI, Servlets manage requests, and JDBC ensures efficient database interaction.
+
+Dynamic Car Store project is an application built using Java, JSP, Servlets, and JDBC to efficiently manage a car inventory system. It allows users to perform CRUD operations (Create, Read, Update, and Delete) on car records stored in a MySQL database. Users can add new cars by entering details like model, brand, and price, and can also remove cars or update existing details. The application dynamically displays available cars by fetching data from the database, with JSP handling the user interface and Servlets managing requests, all powered by JDBC for seamless database interactions.
